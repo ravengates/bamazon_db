@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravengates/bamazon_db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravengates/bamazon_db/issues"
+  },
+  "homepage": "https://github.com/ravengates/bamazon_db#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "sql": "^0.78.0"
+  }
+}
